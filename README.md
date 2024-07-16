@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, sou o Cleber Fidelles 👋
 
-<!--
-**cleberfidelles50/cleberfidelles50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sou professor de tecnologia...
+- 🌱 Estou aprendendo GitHub ...
 
-Here are some ideas to get you started:
+### Soft Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Habilidade de expressar ideias de forma clara e concisa, tanto verbalmente quanto por escrito.
+ Capacidade de ouvir atentamente os outros e entender suas perspectivas.
+ 
+### Hard Skills
+<div style = "display:inline_block;">
+ <img src="https://github.com/user-attachments/assets/1bbf4cc0-bd17-4c60-b3f4-120e853b6c8a">
+ <img src="https://github.com/user-attachments/assets/9488cbd0-f793-4a41-b50d-b5bce874081c" width = "40">
+ <img src="https://github.com/user-attachments/assets/1bbf4cc0-bd17-4c60-b3f4-120e853b6c8a">
+ <img src="https://github.com/user-attachments/assets/1bbf4cc0-bd17-4c60-b3f4-120e853b6c8a">
+ <img src="https://github.com/user-attachments/assets/1bbf4cc0-bd17-4c60-b3f4-120e853b6c8a">
+ 
+  
+</div>
